@@ -5,9 +5,9 @@ This project demonstrates an interactive Air Canvas system that allows users to 
 
 ## Features
 - **Gesture Detection**: Uses Mediapipe for real-time hand tracking.
-- **Interactive Drawing**: Draw on a virtual canvas with your index finger.
+- **Interactive Drawing**: Draw on a virtual canvas with your index and thumb finger. (just like you hold a pen or a pencil).
 - **Clear Canvas**: Press 'c' to clear the canvas.
-- **Exit Application**: Press 'q' to quit.
+- **Exit Application**: Press 'q' to quit/ you can also exit the screen from the webcam window open by hovering over 'quit' pane and then on 'yes'.
 
 ## How to Run
 1. Install dependencies:
@@ -30,4 +30,4 @@ This project demonstrates an interactive Air Canvas system that allows users to 
 
 
 #Pythonista and a-shell on iPhone and iPad.
-to increase the latency get better reccord of the frames per second.
+to increase the latency and get higher record of the frames per second.
